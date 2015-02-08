@@ -1,4 +1,5 @@
 # plotting the four graphs
+
 ##Worklog
 ##read and subsetting data
 directory <- "C:/Users/map05/Documents/Silconvalley"
